@@ -1,0 +1,6 @@
+{
+  "name": "Rx Protocol",
+  "description": "Simple, fully customizable mobile-first medical protocol and clinical guideline reference library for doctors and healthcare professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
